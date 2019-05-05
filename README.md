@@ -1,2 +1,2 @@
-# FileDIffer
+# FileDiffer
 Training with creating repositories
